@@ -54,5 +54,5 @@ A few more suggestions for submitting slides:
 We look forward to your submissions! Thanks for submitting! And hope to see you at LGM if you can come!
 
 ## Presence at LGM
-MABarbe - presenter, MA_Barbe(at)outlook.com
+MABarbe - presenter, MA_Barbe(at)outlook.com  
 Lasse - organizer
