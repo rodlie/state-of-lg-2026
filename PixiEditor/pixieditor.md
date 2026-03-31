@@ -19,7 +19,7 @@ node powered 2D editor. Among many other things, version 2.0 brought:
 
 ## Slide 2
 
-The main goal for 2026 is to bring Node-based Brush Engine and Extension system alive.
+The main goal for 2026 is to bring Node-based Brush Engine, Extension system and reusable Node Components alive.
 
 Brush Engine is already available to test, it's based on the very same Node Graph, that is used for PixiEditor's documents. They claim, that it
 is one of, if not the most advanced Brush Engine out there.
