@@ -48,6 +48,7 @@ Submit a pull request to this repository, or add them to an issue ticket. You ca
 **Deadlines**:
 - Earlier is always appreciated!
 - Soft deadline: We ask everyone please submit before April 1
-- Hard deadline: Submissions close fully April 15
+- Main deadline: Submissions expected by April 15
+- ~~Extended deadline: especially projects contacted late,~~ April 19th
 
 Many thanks to everyone who submits, and we look forward to seeing people at LGM! If you know of any other libre-graphics projects that should be included, please mention in the [issue tracker](https://github.com/libregraphicsmeeting/state-of-lg-2026/issues/2)!
